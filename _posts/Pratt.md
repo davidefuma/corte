@@ -1,6 +1,13 @@
-layout: page
-title: "Biografia di Hugo Pratt"
-permalink: /Pratt.md
+---
+title: "Post: Biografia di Hugo Pratt"
+categories:
+  - Blog
+tags:
+  - link
+  - Post Formats
+
+---
+
 
 # Biografia di Hugo Pratt
 Hugo Pratt nasce il 15 giugno 1927 a Rimini, ma subito si trasferisce a Venezia, che lui considererà sempre la sua città.
